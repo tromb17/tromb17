@@ -6,7 +6,7 @@ I am a Data Analyst from Russia
 
 - 🔭 Currently working on turning raw data into structured insights and automating routine processes.
 - 🌱 Currently learning advanced data analysis techniques and exploring Data Science through courses and articles.
-- 📫 How to reach me: <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/aa3d24ec-e97c-47b3-8cee-626cdb77cc6b" /> @trombeee
+- 📫 How to reach me: <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/aa3d24ec-e97c-47b3-8cee-626cdb77cc6b" /> - @trombeee
 - ⚡ Fun fact: I’m a cycling enthusiast and occasional volleyball player—balance between code and cardio!
 
 
