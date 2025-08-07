@@ -49,5 +49,15 @@ I am a Data Analyst from Russia
 - Market trend analysis capabilities  
 🔹 **Link**: [GitHub Repo](https://github.com/tromb17/real_estate_parsing)
 
-#### 
+#### 2. Social App Analytics Hub
+
+- **Tech Stack**: Python, Jupyter, SQL, ClickHouse, Apache Superset, Apache Airflow
+- **Description**: Comprehensive ecosystem for collecting, analyzing, and visualizing user activity metrics from a social application.
+- **Features**:
+  - Interactive dashboards for DAU, CTR, demographics, and retention rates
+  - Optimized SQL queries for retrieving user activity data
+  - Data cleansing and preprocessing pipelines using Python/Pandas
+  - Real-time alerting system powered by Apache Airflow
+  - Built-in market trend analysis and cohort-based studies
+- **Link**: [GitHub Repo](https://github.com/tromb17/social-messenger-analytics)
 
