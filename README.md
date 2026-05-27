@@ -1,6 +1,8 @@
-<div align='center'>
-  
+<div align="center">
+
 ## Hi there, I'm Vladislav 👋
+
+Data Analyst focused on Python automation, BI dashboards, and operational analytics.
 
 📫 How to reach me:
 
@@ -10,54 +12,95 @@
 
 ---
 
-## About Me:
+## About Me
 
-I am a Data Analyst from Russia
+I am a Data Analyst from Russia with experience in analytics automation, dashboard development, and business reporting.
 
-- 🔭 Currently working on turning raw data into structured insights and automating routine processes.
-- 🌱 Currently learning advanced data analysis techniques and exploring Data Science through courses and articles.
-- 🎓 Applying to PhD programs in Data Science.
-- ⚡ Fun fact: Ex-pro hockey player ⛸️ I’m a cycling enthusiast and occasional volleyball player — balance between code and cardio!
+- 🔭 I work on turning raw operational data into dashboards, reports, and automated analytical tools.
+- 🐍 I use Python to clean data, automate Excel workflows, and build business-oriented analytics solutions.
+- 📊 I build dashboards in Power BI for process monitoring, KPI tracking, and operational visibility.
+- 🎓 Studying to PhD programs in Data Science.
+- ⚡ Ex-pro hockey player ⛸️, cycling enthusiast, and occasional volleyball player.
 
 ---
 
-## Languages and tools
+## Languages and Tools
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
 ![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
-![SuperSet](https://img.shields.io/badge/Apache%20Superset-0b0038?style=for-the-badge&logo=Apache%20Superset&logoColor=e4351d)
-![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=Redash&logoColor=e4351d)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=PostgreSQL&logoColor=e4351d)
-![ClickHouse](https://img.shields.io/badge/Clickhouse-0b0038?style=for-the-badge&logo=Clickhouse&logoColor=e4351d)
-![MatPlotLib](https://img.shields.io/badge/matplotlib-0b0038?style=for-the-badge&logo=matplotlib&logoColor=e4351d)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=e4351d)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b0038?style=for-the-badge&logo=jupyter&logoColor=f37726)
+![Power BI](https://img.shields.io/badge/Power%20BI-0b0038?style=for-the-badge&logo=powerbi&logoColor=f2c811)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=ffcc01)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=apacheairflow&logoColor=017cee)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-0b0038?style=for-the-badge&logo=apachesuperset&logoColor=20a6c9)
+![Excel](https://img.shields.io/badge/Excel-0b0038?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 
 </div>
 
-## Projects
+---
 
-#### 1. Automated Property Parser
-🔹 **Tech Stack**: `Python` `Selenium` `BeautifulSoup` `Pandas` `OpenPyXL`  
-🔹 **Description**: Advanced web scraper that collects and analyzes 40+ metrics from Russian real estate listings including pricing history, property features, and location data.  
-🔹 **Features**:  
-- Automated dynamic content handling  
-- Intelligent data cleaning pipelines  
-- Excel export with formatted output  
-- Market trend analysis capabilities  
-🔹 **Link**: [GitHub Repo](https://github.com/tromb17/real_estate_parsing)
+## Featured Projects
 
-#### 2. Social App Analytics Hub
+### 1. Claims Monitoring Dashboard
+🔹 **Tech Stack:** `Power BI` `Data Visualization` `Operational Analytics`  
+🔹 **Description:** Power BI dashboard for monitoring customer claims workflow, employee workload, overdue tasks, and claim status across processing stages.  
+🔹 **Highlights:**  
+- Weekly and monthly claims monitoring  
+- Employee workload tracking  
+- Overdue task control  
+- Statistics by customer organization  
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/claims-monitoring-dashboard)
 
-- **Tech Stack**: Python, Jupyter, SQL, ClickHouse, Apache Superset, Apache Airflow
-- **Description**: Comprehensive ecosystem for collecting, analyzing, and visualizing user activity metrics from a social application.
-- **Features**:
-  - Interactive dashboards for DAU, CTR, demographics, and retention rates
-  - Optimized SQL queries for retrieving user activity data
-  - Data cleansing and preprocessing pipelines using Python/Pandas
-  - Real-time alerting system powered by Apache Airflow
-  - Built-in market trend analysis and cohort-based studies
-- **Link**: [GitHub Repo](https://github.com/tromb17/social-messenger-analytics)
+### 2. Pharma Pricelist Automation
+🔹 **Tech Stack:** `Python` `Pandas` `NumPy` `openpyxl` `Excel`  
+🔹 **Description:** Automation of pharmaceutical price list generation from 1C exports with pricing logic based on stock levels, expiration dates, and business rules.  
+🔹 **Highlights:**  
+- Automated Excel price list generation  
+- Conditional pricing rules  
+- Data preprocessing from ERP exports  
+- Business-ready formatted output  
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/pharma-pricelist-automation)
 
+### 3. Pharma Overstock Analysis
+🔹 **Tech Stack:** `Python` `Pandas` `Jupyter Notebook` `Excel`  
+🔹 **Description:** Analytical project for identifying excess pharmaceutical inventory using stock balances, contractual demand, and sales-related metrics.  
+🔹 **Highlights:**  
+- Overstock detection in units and value  
+- Aggregation by business dimensions  
+- Excel summary outputs  
+- Decision support for inventory optimization  
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/pharma-overstock-analysis)
+
+### 4. Pharma Procurement Dashboard
+🔹 **Tech Stack:** `Power BI` `Business Intelligence` `Procurement Analytics`  
+🔹 **Description:** Dashboard for procurement monitoring with KPI tracking, supplier analysis, and operational visibility into pharmaceutical purchasing processes.  
+🔹 **Highlights:**  
+- Procurement KPI monitoring  
+- Supplier performance analysis  
+- Operational reporting  
+- Visual management of purchasing activity  
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/pharma-procurement-dashboard)
+
+### 5. Social App Analytics Hub
+🔹 **Tech Stack:** `Python` `SQL` `ClickHouse` `Apache Superset` `Apache Airflow`  
+🔹 **Description:** Analytics ecosystem for collecting, transforming, and visualizing user activity metrics in a social application.  
+🔹 **Highlights:**  
+- DAU, CTR, retention, and demographic dashboards  
+- Automated reporting pipelines  
+- SQL-based product analytics  
+- Alerting and scheduled workflows  
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/social-messenger-analytics)
+
+### 6. Automated Property Parser
+🔹 **Tech Stack:** `Python` `Selenium` `BeautifulSoup` `Pandas` `OpenPyXL`  
+🔹 **Description:** Parser for collecting and structuring real estate listing data with automated preprocessing and Excel export.  
+🔹 **Highlights:**  
+- Automated data collection  
+- Dynamic content handling  
+- Data cleaning and structuring  
+- Excel export for analysis  
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/real_estate_parsing)
