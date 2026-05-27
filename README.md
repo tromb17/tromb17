@@ -53,7 +53,7 @@ I am a Data Analyst from Russia with experience in analytics automation, dashboa
 - Employee workload tracking  
 - Overdue task control  
 - Statistics by customer organization  
-🔹 **Link:** [GitHub Repo](https://github.com/tromb17/claims-monitoring-dashboard)
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/complaints_monitoring_dashboard)
 
 ### 2. Pharma Pricelist Automation
 🔹 **Tech Stack:** `Python` `Pandas` `NumPy` `openpyxl` `Excel`  
@@ -63,7 +63,7 @@ I am a Data Analyst from Russia with experience in analytics automation, dashboa
 - Conditional pricing rules  
 - Data preprocessing from ERP exports  
 - Business-ready formatted output  
-🔹 **Link:** [GitHub Repo](https://github.com/tromb17/pharma-pricelist-automation)
+🔹 **Link:** [GitHub Repo](https://github.com/tromb17/pharma_pricelist_automation)
 
 ### 3. Pharma Overstock Analysis
 🔹 **Tech Stack:** `Python` `Pandas` `Jupyter Notebook` `Excel`  
